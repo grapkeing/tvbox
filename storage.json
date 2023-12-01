@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://dxawi.github.io/0/0.json",
+      "name": "线路1"
+    },
+    {
+      "url": "http://8.210.232.168/xc.json",
+      "name": "线路2"
+    }
+  ]
+}
