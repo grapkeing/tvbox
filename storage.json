@@ -9,12 +9,16 @@
       "name": "线路2"
     },
     {
-      "url": "http://8.210.232.168/xc.json",
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/0821.json",
       "name": "线路3"
     },
     {
       "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
       "name": "线路4"
+    },
+    {
+      "url": "http://8.210.232.168/xc.json",
+      "name": "线路5"
     }
   ]
 }
