@@ -5,8 +5,12 @@
       "name": "线路1"
     },
     {
-      "url": "http://8.210.232.168/xc.json",
+      "url": "https://www.huichunniao.cn/vip/ysc/t.json",
       "name": "线路2"
+    },
+    {
+      "url": "http://8.210.232.168/xc.json",
+      "name": "线路3"
     }
   ]
 }
