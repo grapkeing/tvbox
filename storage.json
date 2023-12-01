@@ -11,6 +11,10 @@
     {
       "url": "http://8.210.232.168/xc.json",
       "name": "线路3"
+    },
+    {
+      "url": "https://github.moeyy.xyz/raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "name": "线路4"
     }
   ]
 }
