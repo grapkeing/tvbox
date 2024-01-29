@@ -1,3 +1,4 @@
+电影,#genre#
 顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 电影 超好看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29460894
@@ -197,6 +198,7 @@ K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
 天体电影,http://210.210.155.35:80/dr9445/h/h14/01.m3u8
 CCM,http://210.210.155.35/qwr9ew/s/s31/index.m3u8
 CCM,http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+动作电影,#genre#
 彩虹e台,P2p://fccs.word-tv.com:9906/62668da3000bd6cc134cc0d079365057
 彩虹电影台,P2p://fccs.word-tv.com:9906/6260e2d0000cf56c172d19afe4aa1d66
 K频道,P2p://fccs.word-tv.com:9906/6263c0cd0009e68a085c9c619861891f
