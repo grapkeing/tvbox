@@ -851,3 +851,11 @@
 新麻豆传媒.0.8,https://video2.51daao.com/btt1/2021/05/20210505/Ma0UQenl/index.m3u8
 新麻豆传媒.0.1,https://video2.51daao.com/btt1/2021/05/20210505/opxgQxWX/index.m3u8
 新麻豆传媒.0.5,https://video2.51daao.com/btt1/2021/05/20210505/tneylc4E/index.m3u8
+电影,#genre#
+顶级欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
+Flix 中文字幕,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+电影 超好看,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=29460894
+鬼吹灯全集,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1331686180
+纪晓岚,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1354143978
+林正英搞笑僵尸,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
+欧美科幻,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=37988782
