@@ -1,7 +1,7 @@
 {
 "spider":"./jar/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378",
 "lives":[
-{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/listx.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","type":0,"url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/grapkeing/tvbox/main/test.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"ipv6","type":0,"url":"https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
  ],
 "wallpaper":"https://jianbian.chuqiuyu.workers.dev",
