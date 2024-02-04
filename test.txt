@@ -851,7 +851,7 @@
 新麻豆传媒.0.8,https://video2.51daao.com/btt1/2021/05/20210505/Ma0UQenl/index.m3u8
 新麻豆传媒.0.1,https://video2.51daao.com/btt1/2021/05/20210505/opxgQxWX/index.m3u8
 新麻豆传媒.0.5,https://video2.51daao.com/btt1/2021/05/20210505/tneylc4E/index.m3u8
-电影,#genre#
+小日子,#genre#
 天美传媒03,https://video2.51daao.com/btt1/2021/02/20210222/6T5EJIqq/index.m3u8
 天美传媒04,https://video2.51daao.com/btt1/2021/02/20210210/GelcPLQ0/index.m3u8
 天美传媒05,https://video2.51daao.com/btt1/2021/02/20210202/AL7rZJm1/index.m3u8
