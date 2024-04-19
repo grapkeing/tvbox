@@ -5,8 +5,8 @@
       "name": "线路1"
     },
     {
-      "url": "https://www.huichunniao.cn/vip/ysc/t.json",
-      "name": "线路2"
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/grapkeing/tvbox/main/test.json",
+      "name": "金叔叔最爱"
     },
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
@@ -15,14 +15,6 @@
     {
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qist/tvbox/master/js.json",
       "name": "线路4"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/grapkeing/tvbox/main/special.json",
-      "name": "金叔叔最爱"
-    },
-    {
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/grapkeing/tvbox/main/test.json",
-      "name": "金叔叔最爱2"
     }
   ]
 }
