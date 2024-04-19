@@ -1,3 +1,8 @@
+F1,#genre#
+马莎F1一台,https://6721.liveplay.now.qq.com/live/6721_11f91b4ae604d9050e6a623076c6be26.m3u8
+上海五星体育电视信号,https://6721.liveplay.now.qq.com/live/6721_c74de3126cbd66f5db58eafdd97ec1d1.m3u8
+F1TV国际信号（sky解说）,https://6721.liveplay.now.qq.com/live/6721_7e02bb6dad8409b90118c0087d2bf5f9.m3u8
+广东体育,https://6721.liveplay.now.qq.com/live/6721_d0fd19dc0a5140e578489bb113567f74.m3u8
 麻豆,#genre#
 麻豆传媒001,https://video2.51daao.com/btt1/2021/04/20210421/vTcVOAWe/index.m3u8
 麻豆传媒002,https://video2.51daao.com/btt1/2021/04/20210421/uerOlDXv/index.m3u8
